@@ -139,10 +139,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cello.cpp" />
+    <ClCompile Include="Drum.cpp" />
+    <ClCompile Include="Filarmony.cpp" />
+    <ClCompile Include="Flute.cpp" />
+    <ClCompile Include="Guitar.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Orchestr.cpp" />
+    <ClCompile Include="Organ.cpp" />
+    <ClCompile Include="Ratchet.cpp" />
+    <ClCompile Include="String.cpp" />
+    <ClCompile Include="Tambourine.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="Trumpet.cpp" />
+    <ClCompile Include="Viola.cpp" />
+    <ClCompile Include="Wind.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cello.h" />
+    <ClInclude Include="Drum.h" />
+    <ClInclude Include="Filarmony.h" />
+    <ClInclude Include="Flute.h" />
+    <ClInclude Include="Guitar.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="Orchestr.h" />
+    <ClInclude Include="Organ.h" />
+    <ClInclude Include="Ratchet.h" />
+    <ClInclude Include="String.h" />
+    <ClInclude Include="Tambourine.h" />
+    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="Trumpet.h" />
+    <ClInclude Include="Viola.h" />
+    <ClInclude Include="Wind.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

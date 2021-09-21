@@ -166,6 +166,7 @@
     <ClInclude Include="Organ.h" />
     <ClInclude Include="Ratchet.h" />
     <ClInclude Include="String.h" />
+    <ClInclude Include="structurs.h" />
     <ClInclude Include="Tambourine.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="Trumpet.h" />
